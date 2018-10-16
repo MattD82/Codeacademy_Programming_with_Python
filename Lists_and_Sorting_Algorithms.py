@@ -123,11 +123,3 @@ print(reverse_list_forloop(list_1))
 
 reverse_list_1 = [x for x in list_1[::-1]]
 print(reverse_list_1)
-
-
-
-
-
-
-
-
