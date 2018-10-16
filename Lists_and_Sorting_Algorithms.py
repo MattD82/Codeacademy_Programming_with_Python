@@ -1,3 +1,5 @@
+### Adding this file to test out GitHub branches
+
 ### GREAT RESOURCE ON LISTS https://www.programiz.com/python-programming/list
 
 ### GREAT RESOURCE on all things Python (explains sorting algorithms very well) http://interactivepython.org/
@@ -121,11 +123,3 @@ print(reverse_list_forloop(list_1))
 
 reverse_list_1 = [x for x in list_1[::-1]]
 print(reverse_list_1)
-
-
-
-
-
-
-
-
